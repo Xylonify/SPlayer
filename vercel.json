@@ -6,11 +6,11 @@
     },
     {
       "source": "/api/:apiurl*",
-      "destination": "https://music-api.focalors.ltd/:apiurl*"
+      "destination": "https://net.xon.de5.net/:apiurl*"
     },
     {
       "source": "/api/ttml/:ttmlurl*",
-      "destination": "https://lyrics.focalors.ltd/:ttmlurl*"
+      "destination": "https://ttml.xon.qzz.io/:ttmlurl*"
     }
   ],
   "headers": [
